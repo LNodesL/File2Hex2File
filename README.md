@@ -1,5 +1,5 @@
-# File2Hex
-A simple collection of tools for converting any filetype to its hex value (C++).
+# File2Hex2File
+A simple collection of tools for converting any filetype to its hex value, or a hex to a file (C++).
 
 ```
 g++ File2Hex-CLI.cpp -o F2H_CLI -static
