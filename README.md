@@ -1,6 +1,10 @@
 # File2Hex2File
 A simple collection of tools for converting any filetype to its hex value, or a hex to a file (C++).
 
+![Screenshot of File2Hex GUI](dev/Screenshot%202024-02-25%20095202.png)
+
+
+
 ## File2Hex GUI
 - Simply compile this program and use it!
 - Comes complete with menu options Open (CTRL + O), New Window (CTRL + N), Reset Window (CTRL + R), Save Hex (CTRL + S) and Quit (CTRL + Q)
